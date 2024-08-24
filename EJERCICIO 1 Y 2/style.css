@@ -6,7 +6,6 @@ body {
 }
 
 h1{
-
     color: #152b3c;
     font-weight:bold;
     font-family:"DM Serif Text", serif;
@@ -25,4 +24,22 @@ h1{
     font-size: 16px; /* Tamaño de fuente */
     color: #152b3c; /* Color del texto */
     margin-bottom: 25px; /* Espaciado inferior */
+}
+
+.image-container img {
+   
+    border-radius: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.info-personal {
+
+    text-align:center;
+    margin-left: 50px;
+    margin-right: 50px;
+
 }

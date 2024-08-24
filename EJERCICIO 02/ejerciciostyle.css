@@ -1,0 +1,61 @@
+body {
+
+    background-color: white;
+}
+
+.container {
+
+    background-color: hsl(65, 94%, 66%); /* Color del rectángulo */
+    border-radius: 20px; /* Bordes redondeados */
+    padding: 100px; /* Espaciado interno */
+    width: 80%; /* Ancho del rectángulo */
+    height: 100%;
+    margin: 200px auto; /* Centrado vertical y horizontal */
+
+}
+
+
+.titulo {
+
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 16px;
+    margin-left:40px;
+}
+
+.subtitulo {
+
+    font-family:"Enriqueta";
+    font-weight: bold;
+    font-size: 60px;
+    margin-left:40px;
+    padding-bottom: 12px;
+}
+
+.texto {
+
+    font-family:"Ubuntu";
+    font-weight: 400;
+    margin-left: 40px;
+    margin-right:480px;
+    line-height: 1.8;
+
+}
+
+.linkuno {
+
+    font-family:"Ubuntu";
+    font-weight: 400;
+    margin-left: 680px;
+    margin-right:40px;
+
+}
+
+.linkdos {
+
+    font-family:"Ubuntu";
+    font-weight: 400;
+    margin-left: 680px;
+    margin-right:40px;
+
+}
